@@ -2,7 +2,7 @@
 
 Hello! I'm Brian, a  web developer from Thika, Kenya. I'm learning full stack development step by step - HTML, CSS, JavaScript, react,nodejs and Git/GitHub.
 
-This is my `hello-profplanet` project, my first step into building real websites.
+This is my first project at profplanetacademy, my first step into building real websites.
 
 ## Why I am learning to code
 
@@ -10,9 +10,9 @@ I am learning to code because I want to turn my ideas into real websites and app
 
 ## Things I want to build
 
- A personal portfolio website to show my work
- A school / academy website like Profplanet Academy
-A small online shop / e-commerce website for local businesses
+ -A personal portfolio website to show my work
+ -A school / academy website like Profplanet Academy
+ -A small online shop / e-commerce website for local businesses
 
 ## Find me here
 
