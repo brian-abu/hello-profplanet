@@ -9,10 +9,10 @@ This is my first project at profplanetacademy, my first step into building real 
 I am learning to code because I want to turn my ideas into real websites and apps that people can use. I want to build a career in tech, solve real problems for people around me, and one day build my own projects and business.
 
 ## Things I want to build
-
- -A personal portfolio website to show my work
- -A school / academy website like Profplanet Academy
- -A small online shop / e-commerce website for local businesses
+- personal portfolio to showcase my skills and projects
+- school management system
+- an online learning website like profplanet-academy
+- farm management system
 
 ## Find me here
 
