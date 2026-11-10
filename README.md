@@ -9,12 +9,11 @@ This is my first project at profplanetacademy, my first step into building real 
 I am learning to code because I want to turn my ideas into real websites and apps that people can use. I want to build a career in tech, solve real problems for people around me, and one day build my own projects and business.
 
 ## Things I want to build
-- personal portfolio to showcase my skills and projects
-- school management system
-- an online learning website like profplanet-academy
-- farm management system
+- Aersonal portfolio to showcase my skills and projects
+- School management system
+- An online learning website like profplanet-academy
+- Farm management system
 
 ## Find me here
 
-Check out more of my projects on my GitHub profile:
-https://github.com/brian-abu
+Check out more of my projects on [my GitHub profile](https://github.com/brian-abu).
